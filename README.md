@@ -8,6 +8,8 @@ Soy estudiante de Ingeniería en Informática con una fuerte pasión por el desa
 ## **Proyectos:**
 Aquí encontrarás algunos proyectos hechos en mi proceso de aprendizaje
 
+* **[One Piece Quotes Scraper](https://github.com/jeancarlostrejo/one-piece-quotes-scraper)**: Una aplicación para hacer scraping a un sitio de frases de One Piece 🏴‍☠️.
+https://github.com/jeancarlostrejo/one-piece-quotes-scraper
 * **[Devstagram](https://github.com/jeancarlostrejo/devstagram)**: una applicación parecida a instagram donde las personas pueden hacer publicaciones.
  https://github.com/jeancarlostrejo/devstagram
 * **[Devjobs](https://github.com/jeancarlostrejo/devjobs)**: plataforma para publicar y postularse a vacantes en tecnología https://github.com/jeancarlostrejo/devjobs
