@@ -8,9 +8,9 @@ Soy estudiante de Ingeniería en Informática con una fuerte pasión por el desa
 ## **Proyectos:**
 Aquí encontrarás algunos proyectos hechos en mi proceso de aprendizaje
 
-* **[One Piece Quotes Scraper](https://github.com/jeancarlostrejo/one-piece-quotes-scraper)**: Una aplicación para hacer scraping a un sitio de frases de One Piece 🏴‍☠️.
+* **[One Piece Quotes Scraper](https://github.com/jeancarlostrejo/one-piece-quotes-scraper)**: Una aplicación para hacer scraping a un sitio de frases de One Piece 🏴‍☠️. ¡Dale una mirada [aquí](https://one-piece-quotes.mnz.dom.my.id/)!
 
-* **[My readings](https://github.com/jeancarlostrejo/my-readings)**: Un sitio donde comparto los libros que he leido, que estoy leyendo y que proximamente leeré 📚. Aqui te dejo el enlace para que le eches un vistazo: [ir al sitio](https://jeancarlostrejo.github.io/my-readings/welcome.html)
+* **[My Library](https://github.com/jeancarlostrejo/my-library-app)**: Un sitio donde comparto los libros que he leido, que estoy leyendo y que proximamente leeré 📚. Aqui te dejo el enlace para que le eches un vistazo: [ir al sitio](https://mi-biblioteca.mnz.dom.my.id/)
 
 * **[Devstagram](https://github.com/jeancarlostrejo/devstagram)**: una applicación parecida a instagram donde las personas pueden hacer publicaciones.
  https://github.com/jeancarlostrejo/devstagram
@@ -19,7 +19,7 @@ Aquí encontrarás algunos proyectos hechos en mi proceso de aprendizaje
 
 ## **Tecnologías que he aprendido:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,laravel,bootstrap,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,laravel,bootstrap,nodejs,git,tailwindcss)](https://skillicons.dev)
 
 ## **¿Quieres colaborar?**
 
