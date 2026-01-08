@@ -3,10 +3,10 @@
 
 ## **Un poco sobre mí:**
 
-Soy estudiante de Ingeniería en Informática con una fuerte pasión por el desarrollo backend. Mi principal enfoque está en el backend, donde disfruto trabajando con PHP y Laravel para construir APIs. Aunque mi experiencia en frontend es limitada (conozco lo básico de html y css) estoy siempre dispuesto a aprender y explorar nuevas tecnologías.
+Soy Ingeniero en Informática con una fuerte pasión por el desarrollo backend. Manejo backend con PHP y el framework Laravel para construir APIs y servicios. También tengo experiencia en bases de datos relacionales con MySQL (modelado, consultas y optimización). Aunque mi fuerte es el desarrollo backend, tengo conocimientos en frontend (conozco lo básico de HTML y CSS) y estoy siempre dispuesto a aprender y explorar nuevas tecnologías.
 
 ## **Proyectos:**
-Aquí encontrarás algunos proyectos hechos en mi proceso de aprendizaje
+Aquí encontrarás algunos proyectos en los que desarrollo mis habilidades y conocimientos:
 
 * **[One Piece Quotes Scraper](https://github.com/jeancarlostrejo/one-piece-quotes-scraper)**: Una aplicación para hacer scraping a un sitio de frases de One Piece 🏴‍☠️. ¡Dale una mirada [aquí](https://one-piece-quotes.mnz.dom.my.id/)!
 
@@ -19,7 +19,7 @@ Aquí encontrarás algunos proyectos hechos en mi proceso de aprendizaje
 
 ## **Tecnologías que he aprendido:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,php,laravel,bootstrap,nodejs,git,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,git,html,css,javascript,bootstrap,tailwindcss)](https://skillicons.dev)
 
 ## **¿Quieres colaborar?**
 
